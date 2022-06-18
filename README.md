@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/19333888/jmgrd98)](https://stackoverflow.com/users/19333888/jmgrd98)
+[![Codewars Badge](https://www.codewars.com/users/jmgrd98/badges/micro)](https://www.codewars.com/users/jmgrd98/badges/micro)
+
 - 🔭 Atualmente trabalho como copywriter na Neil Patel BR 
 - 🌱 Estou estudando front-end(HTML, CSS, JavaScript e React)
 - 📫 Contate-me pelo email: jmgrd98@gmail.com
