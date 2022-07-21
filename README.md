@@ -3,7 +3,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/19366136/jmgrd98)](https://stackoverflow.com/users/19366136/jmgrd98)
 [![Codewars Badge](https://www.codewars.com/users/jmgrd98/badges/micro)](https://www.codewars.com/users/jmgrd98/badges/micro)
 
-- 🔭 Atualmente trabalho como copywriter na Neil Patel BR
+- 🔭 Atualmente trabalho como Desenvolvedor Wordrpress e Front-end
 - 🌱 Estou estudando front-end(JavaScript e React)
 - 📫 Contate-me pelo email: jmgrd98@gmail.com
 
