@@ -3,9 +3,9 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/19366136/jmgrd98)](https://stackoverflow.com/users/19366136/jmgrd98)
 [![Codewars Badge](https://www.codewars.com/users/jmgrd98/badges/micro)](https://www.codewars.com/users/jmgrd98/badges/micro)
 
-- 🔭 Atualmente trabalho como Desenvolvedor Wordpress e Front-end
-- 🌱 Estou estudando Javascript (ReactJS e NodeJS)
-- 📫 Contate-me pelo email: jmgrd98@gmail.com
+- 🔭 I'm currently working as Wordpress and Frontend Developer.
+- 🌱 I'm currently learning Javascript (ReactJS and NodeJS) and SQL.
+- 📫 Reach me: jmgrd98@gmail.com
 
 <div align="center">
   <a href="https://github.com/jmgrd98">
