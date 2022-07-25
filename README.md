@@ -3,8 +3,8 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/19366136/jmgrd98)](https://stackoverflow.com/users/19366136/jmgrd98)
 [![Codewars Badge](https://www.codewars.com/users/jmgrd98/badges/micro)](https://www.codewars.com/users/jmgrd98/badges/micro)
 
-- 🔭 Atualmente trabalho como Desenvolvedor Wordrpress e Front-end
-- 🌱 Estou estudando front-end(JavaScript e React)
+- 🔭 Atualmente trabalho como Desenvolvedor Wordpress e Front-end
+- 🌱 Estou estudando Javascript (ReactJS e NodeJS)
 - 📫 Contate-me pelo email: jmgrd98@gmail.com
 
 <div align="center">
