@@ -3,7 +3,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/19366136/jmgrd98)](https://stackoverflow.com/users/19366136/jmgrd98)
 [![Codewars Badge](https://www.codewars.com/users/jmgrd98/badges/micro)](https://www.codewars.com/users/jmgrd98/badges/micro)
 
-- 🔭 I'm currently working as Wordpress and Frontend Developer.
+- 🔭 I'm currently working as Wordpress and Frontend Developer Jr.
 - 🌱 Learning Javascript and Typescript (ReactJS and NodeJS) and DBs (SQL and Firebase).
 - 📫 Reach me: jmgrd98@gmail.com
 
