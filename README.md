@@ -4,7 +4,7 @@
 [![Codewars Badge](https://www.codewars.com/users/jmgrd98/badges/micro)](https://www.codewars.com/users/jmgrd98/badges/micro)
 
 - 🔭 I'm currently working as Wordpress and Frontend Developer Jr.
-- 🌱 Learning Javascript and Typescript (ReactJS and NodeJS) and DBs (SQL and Firebase).
+- 🌱 Learning Javascript and Typescript (ReactJS and NodeJS) and DBs (SQL and NoSQL).
 - 📫 Reach me: jmgrd98@gmail.com
 
 <div align="center">
