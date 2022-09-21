@@ -7,7 +7,7 @@
 - 🌱 Learning Javascript and Typescript (ReactJS and NodeJS) and DBs (SQL and NoSQL).
 - 📫 Reach me: jmgrd98@gmail.com
 
-https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000
+<img src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000">
 
 <div align="center">
   <a href="https://github.com/jmgrd98">
