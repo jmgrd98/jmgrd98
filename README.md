@@ -2,12 +2,11 @@
 
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/19366136/jmgrd98)](https://stackoverflow.com/users/19366136/jmgrd98)
 [![Codewars Badge](https://www.codewars.com/users/jmgrd98/badges/micro)](https://www.codewars.com/users/jmgrd98/badges/micro)
+<img src="https://img.shields.io/github/followers/jmgrd98.svg?style=social&label=Follow&maxAge=2592000">
 
 - 🔭 I'm currently working as Web Developer.
 - 🌱 Learning Javascript and Typescript (ReactJS and NodeJS) and DBs (SQL and NoSQL).
 - 📫 Reach me: jmgrd98@gmail.com
-
-<img src="https://img.shields.io/github/followers/jmgrd98.svg?style=social&label=Follow&maxAge=2592000">
 
 <div align="center">
   <a href="https://github.com/jmgrd98">
