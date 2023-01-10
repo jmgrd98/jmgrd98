@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/github/followers/jmgrd98.svg?style=social&label=Follow&maxAge=2592000">
 
 - 🔭 I'm currently working as Web Developer.
-- 🌱 Learning Javascript and Typescript (ReactJS and NodeJS) and DBs (SQL and NoSQL).
+- 🌱 Learning ReactJS and Typescript.
 - 📫 Reach me: jmgrd98@gmail.com
 
 <div align="center">
