@@ -3,7 +3,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/19366136/jmgrd98)](https://stackoverflow.com/users/19366136/jmgrd98)
 [![Codewars Badge](https://www.codewars.com/users/jmgrd98/badges/micro)](https://www.codewars.com/users/jmgrd98/badges/micro)
 
-- 🔭 I'm currently working as Frontend Developer.
+- 🔭 I'm currently working as Fullstack Developer.
 - 🌱 Learning frontend (ReactJS, NextJS, Angular and Ionic), backend (NodeJS, Express, Firebase and NestJS) and DBs (MySQL and MongoDB).
 - 📫 Reach me: jmgrd98@gmail.com or Whatsapp (+55 61 996386998)
 
