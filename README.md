@@ -47,6 +47,5 @@
                  
   </div>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmgrd98&repo=Space-invaders)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jmgrd98&repo=GithubFinder)](https://github.com/anuraghazra/github-readme-stats)
+
 
