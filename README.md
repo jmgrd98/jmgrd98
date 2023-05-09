@@ -4,7 +4,7 @@
 [![Codewars Badge](https://www.codewars.com/users/jmgrd98/badges/micro)](https://www.codewars.com/users/jmgrd98/badges/micro)
 
 - 🔭 I'm currently working as a Fullstack Developer.
-- 🌱 Learning frontend (ReactJS, NextJS, Angular, VueJS and Ionic), backend (NodeJS, ExpressJS, NestJS, Firebase, Python and PHP) and DBs (MySQL, PostgreSQL and MongoDB).
+- 🌱 Learning frontend (ReactJS, NextJS, Angular, VueJS and Ionic), backend (NodeJS, ExpressJS, NestJS, Firebase, Python and PHP), DBs (MySQL, PostgreSQL and MongoDB) and mobile (React Native, Ionic).
 - 📫 Reach me: jmgrd98@gmail.com or Whatsapp (+55 61 996386998)
 
 <div align="center">
