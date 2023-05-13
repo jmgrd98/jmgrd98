@@ -4,7 +4,7 @@
 [![Codewars Badge](https://www.codewars.com/users/jmgrd98/badges/micro)](https://www.codewars.com/users/jmgrd98/badges/micro)
 
 - 🔭 I'm currently working as a Fullstack Developer.
-- 🌱 Learning frontend (ReactJS, NextJS, Angular, VueJS and Ionic), backend (NodeJS, ExpressJS, NestJS, Firebase, Python and PHP), DBs (MySQL, PostgreSQL and MongoDB) and mobile (React Native, Ionic).
+- 🌱 Learning frontend (ReactJS, NextJS, Angular, VueJS and Ionic), backend (NodeJS, ExpressJS, NestJS, Firebase, Python and PHP), DBs (MySQL, PostgreSQL and MongoDB) and mobile development (React Native, Flutter).
 - 📫 Reach me: jmgrd98@gmail.com or Whatsapp (+55 61 996386998)
 
 <div align="center">
@@ -29,6 +29,7 @@
   <img align="center" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />      
   <img align="center" alt="Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="NodeJS" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="ExpressJS" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="NestJS" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
