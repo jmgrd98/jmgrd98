@@ -3,6 +3,7 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/19366136/jmgrd98)](https://stackoverflow.com/users/19366136/jmgrd98)
 [![Codewars Badge](https://www.codewars.com/users/jmgrd98/badges/micro)](https://www.codewars.com/users/jmgrd98/badges/micro)
 
+
 - 🔭 I'm currently working as a Fullstack Developer.
 - 🌱 Learning frontend (ReactJS, NextJS, Angular, VueJS and Ionic), backend (NodeJS, ExpressJS, NestJS, Firebase, Python and PHP), DBs (MySQL, PostgreSQL and MongoDB), mobile development (React Native, Flutter) and blockchain development (Solidity).
 - 📫 Reach me: jmgrd98@gmail.com or Whatsapp (+55 61 996386998)
@@ -53,6 +54,9 @@
   <img align="center" alt="Wordpress" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
                  
   </div>
-  
+
+  <!-- replace x.x.x with actual version -->
+<script src="https://unpkg.com/@codersrank/timeline@x.x.x/codersrank-timeline.min.js"></script>
+<codersrank-timeline type="technologies" username="YOUR_USERNAME"></codersrank-timeline>
 
 
