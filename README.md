@@ -55,8 +55,4 @@
                  
   </div>
 
-  <!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/timeline@1.0.0/codersrank-timeline.min.js"></script>
-<codersrank-timeline type="technologies" username="YOUR_USERNAME"></codersrank-timeline>
-
 
