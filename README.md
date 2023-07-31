@@ -60,9 +60,6 @@
                  
   </div>
 
-<!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/timeline@0.9.2/codersrank-timeline.min.js"></script>
-<codersrank-timeline type="technologies" username="jmgrd98"></codersrank-timeline>
 
 
 
