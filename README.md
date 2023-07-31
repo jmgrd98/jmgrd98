@@ -62,13 +62,8 @@
 
   <!-- replace x.x.x with actual version -->
 <script src="https://unpkg.com/@codersrank/timeline@x.x.x/codersrank-timeline.min.js"></script>
-<script>
-   import CodersrankTimeline from '@codersrank/timeline';
 
-window.customElements.define('codersrank-timeline', CodersrankTimeline);
-</script>
-
-<codersrank-timeline type="technologies" username="YOUR_USERNAME"></codersrank-timeline>
+<codersrank-timeline type="technologies" username="jmgrd98"></codersrank-timeline>
 
 
 
