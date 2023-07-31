@@ -56,7 +56,20 @@
   <img align="center" alt="Firebase" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="Figma" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Wordpress" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+  
                  
   </div>
+
+  <!-- replace x.x.x with actual version -->
+<script src="https://unpkg.com/@codersrank/timeline@x.x.x/codersrank-timeline.min.js"></script>
+<script>
+   import CodersrankTimeline from '@codersrank/timeline';
+
+window.customElements.define('codersrank-timeline', CodersrankTimeline);
+</script>
+
+<codersrank-timeline type="technologies" username="YOUR_USERNAME"></codersrank-timeline>
+
+
 
 
