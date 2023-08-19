@@ -42,6 +42,7 @@
   <img align="center" alt="Python" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Flask" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   <img align="center" alt="Django" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img align="center" alt="NumPy" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img align="center" alt="Selenium" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
   <img align="center" alt="Pandas" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" alt="Jupyter" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
