@@ -55,12 +55,12 @@
   <img align="center" alt="Linux" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Ubuntu" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />     
   <img align="center" alt="Figma" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Wordpress" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   
                  
   </div>
+  <br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=nextjs,threejs,solidity,vercel,express,flask,django)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nextjs,threejs,solidity,vercel,express,flask,django,idea,jquery,nuxtjs,postman,prisma,reactivex,styledcomponents,vite,wordpress)](https://skillicons.dev)
 
 
 
