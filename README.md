@@ -37,8 +37,6 @@
   <img align="center" alt="ExpressJS" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="NestJS" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" alt="Python" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Flask" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-  <img align="center" alt="Django" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" alt="NumPy" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img align="center" alt="Selenium" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
   <img align="center" alt="Pandas" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
@@ -62,7 +60,7 @@
                  
   </div>
 
-  [![My Skills](https://skillicons.dev/icons?i=nextjs,threejs,solidity)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nextjs,threejs,solidity,vercel,express,flask,django)](https://skillicons.dev)
 
 
 
