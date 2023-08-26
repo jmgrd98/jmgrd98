@@ -60,7 +60,7 @@
   </div>
   <br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=nextjs,threejs,solidity,vercel,express,flask,django,idea,jquery,postman,prisma,reactivex,styledcomponents,vite,wordpress)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nextjs,threejs,solidity,ipfs,vercel,express,flask,django,idea,jquery,postman,prisma,reactivex,styledcomponents,vite,wordpress)](https://skillicons.dev)
 
 
 
