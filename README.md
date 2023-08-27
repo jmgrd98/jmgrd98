@@ -5,7 +5,7 @@
 
 
 - 🔭 I'm currently working as a Fullstack Developer.
-- 🌱 Learning frontend (ReactJS, NextJS, Angular, VueJS and Ionic), backend (NodeJS, ExpressJS, NestJS, Firebase, Python and PHP), DBs (MySQL, PostgreSQL and MongoDB), mobile development (React Native, Flutter) and blockchain development (Solidity).
+- 🌱 Learning frontend (ReactJS, NextJS, Angular, VueJS and Ionic), backend (NodeJS, ExpressJS, NestJS, Firebase, Python and PHP), DBs (MySQL, PostgreSQL and MongoDB), mobile development (React Native) and blockchain development (Solidity).
 - 📫 Reach me: jmgrd98@gmail.com or Whatsapp (+55 61 996386998)
 
 <div align="center">
