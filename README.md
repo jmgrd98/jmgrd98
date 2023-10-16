@@ -4,8 +4,8 @@
 [![Codewars Badge](https://www.codewars.com/users/jmgrd98/badges/micro)](https://www.codewars.com/users/jmgrd98/badges/micro)
 
 
-- 🔭 I'm currently working as a Software Engineer.
-- 🌱 Learning frontend (ReactJS, NextJS, Angular, VueJS and Ionic), backend (NodeJS, ExpressJS, NestJS, Firebase, Python and PHP), DBs (MySQL, PostgreSQL and MongoDB), mobile development (React Native) and blockchain development (Solidity).
+- 🔭 I'm currently working as a Frontend Engineer.
+- 🌱 Studying NestJS and Apache Kafka.
 - 📫 Reach me: jmgrd98@gmail.com or Whatsapp (+55 61 996386998)
 
 <div align="center">
