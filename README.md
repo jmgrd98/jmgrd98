@@ -5,7 +5,6 @@
 
 
 - 🔭 I'm currently working as a Frontend Engineer.
-- 🌱 Studying NestJS, Docker and Apache Kafka.
 - 📫 Reach me: jmgrd98@gmail.com or Whatsapp (+55 61 996386998)
 
 <div align="center">
