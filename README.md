@@ -58,7 +58,7 @@
   </div>
   <br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=nextjs,threejs,solidity,ipfs,vercel,express,flask,django,jquery,postman,prisma,reactivex,styledcomponents,vite,aws,gcp,svg,md,powershell,bash,kafka,idea)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nextjs,threejs,solidity,ipfs,vercel,express,flask,django,jquery,postman,prisma,reactivex,styledcomponents,vite,aws,gcp,svg,md,powershell,bash,kafka)](https://skillicons.dev)
 
 
 
