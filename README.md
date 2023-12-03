@@ -4,7 +4,7 @@
 [![Codewars Badge](https://www.codewars.com/users/jmgrd98/badges/micro)](https://www.codewars.com/users/jmgrd98/badges/micro)
 
 
-- 🔭 I'm currently working as a Frontend Engineer.
+- 🔭 I'm currently working as a Software Engineer.
 - 📫 Reach me: jmgrd98@gmail.com or Whatsapp (+55 61 996386998)
 
 <div align="center">
