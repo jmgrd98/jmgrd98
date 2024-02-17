@@ -49,12 +49,14 @@
   <img align="center" alt="Firebase" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="Linux" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
   <img align="center" alt="Figma" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Ubuntu" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+          
   
                  
   </div>
   <br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=ubuntu,tailwind,nextjs,threejs,solidity,vercel,express,flask,django,postman,prisma,reactivex,styledcomponents,vite,aws,gcp,powershell,bash,kafka,hibernate,graphql,anaconda,discord)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=tailwind,nextjs,threejs,solidity,vercel,express,flask,django,postman,prisma,reactivex,styledcomponents,vite,aws,gcp,powershell,bash,kafka,hibernate,graphql,anaconda,discord)](https://skillicons.dev)
 
 
 
