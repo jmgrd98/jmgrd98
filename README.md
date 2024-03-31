@@ -69,7 +69,7 @@
   </div>
   <br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,nextjs,threejs,solidity,vercel,express,flask,django,postman,prisma,reactivex,styledcomponents,vite,aws,gcp,powershell,bash,kafka,hibernate,graphql,anaconda,discord,devto,sklearn,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,nextjs,threejs,solidity,vercel,express,flask,django,postman,prisma,reactivex,styledcomponents,vite,aws,gcp,powershell,bash,kafka,hibernate,graphql,anaconda,discord,devto,sklearn,vscode,androidstudio)](https://skillicons.dev)
 
 
 
