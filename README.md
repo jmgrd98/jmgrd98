@@ -63,13 +63,12 @@
   <img align="center" alt="Ubuntu" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
   <img align="center" alt="Hardhat" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" />
   <img align="center" alt="Insomnia" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
-  <img align="center" alt="Intellij" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
   <img align="center" alt="Kaggle" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
                  
   </div>
   <br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,nextjs,threejs,solidity,vercel,express,flask,django,postman,prisma,reactivex,styledcomponents,vite,aws,gcp,powershell,bash,kafka,hibernate,graphql,anaconda,discord,devto,sklearn,vscode,androidstudio)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,nextjs,threejs,solidity,vercel,express,flask,django,postman,prisma,reactivex,styledcomponents,vite,aws,gcp,powershell,bash,kafka,hibernate,graphql,anaconda,discord,devto,sklearn,vscode,idea,androidstudio)](https://skillicons.dev)
 
 
 
