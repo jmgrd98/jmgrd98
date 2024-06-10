@@ -5,7 +5,6 @@
 
 
 - 🔭 I'm currently working as a Software Engineer.
-- 💡 Learning monorepo and microfrontends architecture, as well as chatbot development.
 - 📫 Reach me: jmgrd98@gmail.com or Whatsapp (+55 61 996386998)
 
 <div align="center">
