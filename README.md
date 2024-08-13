@@ -5,7 +5,6 @@
 
 
 - 🔭 I'm currently working as a Software Engineer.
-- 📫 Reach me: jmgrd98@gmail.com or Whatsapp (+55 61 996386998)
 
 <div align="center">
   <a href="https://github.com/jmgrd98">
