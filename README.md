@@ -77,7 +77,7 @@
   </div>
   <br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,nextjs,remix,svelte,electron,threejs,solidity,vercel,express,flask,django,postman,prisma,reactivex,styledcomponents,vite,aws,gcp,cloudflare,kafka,hibernate,graphql,apollo,anaconda,sklearn,vscode,idea,androidstudio,powershell,bash,notion,stackoverflow,discord,devto)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=regex,bootstrap,tailwind,nextjs,remix,svelte,electron,threejs,solidity,vercel,express,flask,django,postman,prisma,reactivex,styledcomponents,vite,aws,gcp,cloudflare,kafka,hibernate,graphql,apollo,anaconda,sklearn,vscode,idea,androidstudio,powershell,bash,notion,stackoverflow,discord,devto)](https://skillicons.dev)
 
 
 
