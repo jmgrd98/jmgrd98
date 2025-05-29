@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working as a Software Engineer.
 
-- Acesse [vaguinhas.com.br] para receber diariamente vaguinhas de tecnologia no seu e-mail!
+- Acesse [vaguinhas.com.br](https://www.vaguinhas.com.br/) para receber diariamente vaguinhas de tecnologia no seu e-mail!
 
 <div align="center">
   <a href="https://github.com/jmgrd98">
