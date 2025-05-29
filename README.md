@@ -6,6 +6,8 @@
 
 - 🔭 I'm currently working as a Software Engineer.
 
+- Acesse [vaguinhas.com.br] para receber diariamente vaguinhas de tecnologia no seu e-mail!
+
 <div align="center">
   <a href="https://github.com/jmgrd98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmgrd98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
